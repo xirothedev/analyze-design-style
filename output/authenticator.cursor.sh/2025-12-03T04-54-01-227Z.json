@@ -1,0 +1,338 @@
+{
+  "url": "https://authenticator.cursor.sh/sign-up?client_id=client_01GS6W3C96KW4WRS6Z93JCE2RJ&redirect_uri=https%3A%2F%2Fcursor.com%2Fapi%2Fauth%2Fcallback&state=%257B%2522returnTo%2522%253A%2522%252Fdashboard%2522%252C%2522nonce%2522%253A%252220b11ecd-b106-455d-aa08-5c8a68a3cb6c%2522%257D&authorization_session_id=01KBH8Y13PG4A5DZCBBX3NV24P",
+  "extractedAt": "2025-12-03T04:54:01.215Z",
+  "logo": {
+    "source": "img",
+    "url": "https://workos.imgix.net/app-branding/environment_01GS6W3C901N50J4ZGFB6V1Z6C/01K7002RKC1S3W3WGAGWBX547Y",
+    "width": 1401,
+    "height": 1597,
+    "alt": "Logo",
+    "safeZone": {
+      "top": 0,
+      "right": 0,
+      "bottom": 0,
+      "left": 0
+    }
+  },
+  "favicons": [
+    {
+      "type": "icon",
+      "url": "https://workos.imgix.net/app-branding/environment_01GS6W3C901N50J4ZGFB6V1Z6C/01K6ZWC3Q022AX8XY2B9TXGK9D",
+      "sizes": null
+    },
+    {
+      "type": "icon",
+      "url": "https://workos.imgix.net/app-branding/environment_01GS6W3C901N50J4ZGFB6V1Z6C/01K6ZWC3Q022AX8XY2B9TXGK9D",
+      "sizes": null
+    },
+    {
+      "type": "icon",
+      "url": "https://workos.imgix.net/app-branding/environment_01GS6W3C901N50J4ZGFB6V1Z6C/01K6ZWC3PHD9RH99VX6XZVAJ6T",
+      "sizes": null
+    },
+    {
+      "type": "favicon.ico",
+      "url": "https://authenticator.cursor.sh/favicon.ico",
+      "sizes": null
+    }
+  ],
+  "colors": {
+    "semantic": {
+      "primary": "rgb(25, 24, 14)"
+    },
+    "palette": [
+      {
+        "color": "rgb(229, 231, 235)",
+        "normalized": "#e5e7eb",
+        "count": 46,
+        "confidence": "high",
+        "sources": [
+          "rt-text"
+        ]
+      },
+      {
+        "color": "rgb(255, 255, 255)",
+        "normalized": "#ffffff",
+        "count": 26,
+        "confidence": "high",
+        "sources": [
+          "rt-reset",
+          "rt-text"
+        ]
+      },
+      {
+        "color": "rgb(111, 111, 111)",
+        "normalized": "#6f6f6f",
+        "count": 10,
+        "confidence": "high",
+        "sources": [
+          "rt-text"
+        ]
+      },
+      {
+        "color": "rgb(25, 24, 14)",
+        "normalized": "#19180e",
+        "count": 7,
+        "confidence": "high",
+        "sources": [
+          "rt-reset"
+        ]
+      },
+      {
+        "color": "rgb(114, 102, 44)",
+        "normalized": "#72662c",
+        "count": 1,
+        "confidence": "medium",
+        "sources": [
+          "hover/focus"
+        ]
+      }
+    ],
+    "cssVariables": {
+      "--base-card-classic-hover-border-color": "color-mix(in oklab,#ffffff2c,#3a3a3a 25%)",
+      "--segmented-control-indicator-background-color": "#ffffff12",
+      "--branded-button-hover-background": "#f6f6f6",
+      "--switch-high-contrast-checked-color-overlay": "transparent",
+      "--branded-link-text-decoration-color": "#6d6c6799",
+      "--branded-button-color": "#000000",
+      "--color-panel-translucent": "#ffffff09",
+      "--color-background": "#111"
+    }
+  },
+  "typography": {
+    "styles": [
+      {
+        "context": "button",
+        "family": "Cursor Gothic",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI (Custom), Roboto, Helvetica Neue, Open Sans (Custom), system-ui, Apple Color Emoji, Segoe UI Emoji",
+        "size": "16px (1.00rem)",
+        "weight": 500,
+        "lineHeight": "1.50",
+        "spacing": null,
+        "transform": null,
+        "fontFeatures": "\"calt\", \"liga\""
+      },
+      {
+        "context": "heading-1",
+        "family": "Cursor Gothic",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI (Custom), Roboto, Helvetica Neue, Open Sans (Custom), system-ui, Apple Color Emoji, Segoe UI Emoji",
+        "size": "16px (1.00rem)",
+        "weight": 500,
+        "lineHeight": "1.50",
+        "spacing": null,
+        "transform": null,
+        "fontFeatures": "\"calt\", \"liga\""
+      },
+      {
+        "context": "link",
+        "family": "Cursor Gothic",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI (Custom), Roboto, Helvetica Neue, Open Sans (Custom), system-ui, Apple Color Emoji, Segoe UI Emoji",
+        "size": "16px (1.00rem)",
+        "weight": 500,
+        "lineHeight": "1.50",
+        "spacing": null,
+        "transform": null,
+        "fontFeatures": "\"calt\", \"liga\""
+      },
+      {
+        "context": "heading-1",
+        "family": "Cursor Gothic",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI (Custom), Roboto, Helvetica Neue, Open Sans (Custom), system-ui, Apple Color Emoji, Segoe UI Emoji",
+        "size": "16px (1.00rem)",
+        "weight": 400,
+        "lineHeight": "1.50",
+        "spacing": null,
+        "transform": null,
+        "fontFeatures": "\"calt\", \"liga\""
+      },
+      {
+        "context": "caption",
+        "family": "Cursor Gothic",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI (Custom), Roboto, Helvetica Neue, Open Sans (Custom), system-ui, Apple Color Emoji, Segoe UI Emoji",
+        "size": "14px (0.88rem)",
+        "weight": 400,
+        "lineHeight": "1.43",
+        "spacing": null,
+        "transform": null,
+        "fontFeatures": "\"calt\", \"liga\""
+      },
+      {
+        "context": "link",
+        "family": "Cursor Gothic",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI (Custom), Roboto, Helvetica Neue, Open Sans (Custom), system-ui, Apple Color Emoji, Segoe UI Emoji",
+        "size": "14px (0.88rem)",
+        "weight": 400,
+        "lineHeight": "1.43",
+        "spacing": null,
+        "transform": null,
+        "fontFeatures": "\"calt\", \"liga\""
+      },
+      {
+        "context": "caption",
+        "family": "Cursor Gothic",
+        "fallbacks": "-apple-system, BlinkMacSystemFont, Segoe UI (Custom), Roboto, Helvetica Neue, Open Sans (Custom), system-ui, Apple Color Emoji, Segoe UI Emoji",
+        "size": "0px (0.00rem)",
+        "weight": 600,
+        "lineHeight": "Infinity",
+        "spacing": null,
+        "transform": null,
+        "fontFeatures": "\"calt\", \"liga\""
+      }
+    ],
+    "sources": {
+      "googleFonts": [],
+      "adobeFonts": false,
+      "variableFonts": false
+    }
+  },
+  "spacing": {
+    "scaleType": "8px",
+    "commonValues": [
+      {
+        "px": "1px",
+        "rem": "0.06rem",
+        "count": 6,
+        "numericValue": 1
+      },
+      {
+        "px": "16px",
+        "rem": "1.00rem",
+        "count": 3,
+        "numericValue": 16
+      },
+      {
+        "px": "20px",
+        "rem": "1.25rem",
+        "count": 1,
+        "numericValue": 20
+      },
+      {
+        "px": "24px",
+        "rem": "1.50rem",
+        "count": 1,
+        "numericValue": 24
+      },
+      {
+        "px": "64px",
+        "rem": "4.00rem",
+        "count": 1,
+        "numericValue": 64
+      }
+    ]
+  },
+  "borderRadius": {
+    "values": [
+      {
+        "value": "3.5px",
+        "count": 3,
+        "confidence": "low",
+        "numericValue": 3.5
+      },
+      {
+        "value": "4.5px",
+        "count": 8,
+        "confidence": "medium",
+        "numericValue": 4.5
+      }
+    ]
+  },
+  "borders": {
+    "widths": [
+      {
+        "value": "1px",
+        "count": 4,
+        "confidence": "medium",
+        "numericValue": 1
+      }
+    ],
+    "styles": [
+      {
+        "value": "solid",
+        "count": 111,
+        "confidence": "high"
+      }
+    ],
+    "colors": [
+      {
+        "value": "rgb(25, 24, 14)",
+        "count": 3,
+        "confidence": "low"
+      },
+      {
+        "value": "rgba(128, 128, 128, 0.3)",
+        "count": 1,
+        "confidence": "low"
+      }
+    ]
+  },
+  "shadows": [
+    {
+      "shadow": "rgba(254, 249, 214, 0.235) 0px 0px 0px 1px inset",
+      "count": 3,
+      "confidence": "medium"
+    }
+  ],
+  "components": {
+    "buttons": [
+      {
+        "backgroundColor": "rgb(25, 24, 14)",
+        "color": "rgb(255, 255, 255)",
+        "padding": "0px 16px",
+        "borderRadius": "4.5px",
+        "border": "0px none rgb(255, 255, 255)",
+        "fontWeight": "500",
+        "fontSize": "16px",
+        "classes": "rt-reset rt-BaseButton rt-Button BrandedButton ak-",
+        "confidence": "high"
+      }
+    ],
+    "inputs": [
+      {
+        "type": "input",
+        "border": "0px solid rgb(229, 231, 235)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "focusStyles": {
+          "outline": "rgb(238, 238, 238) none 0px"
+        }
+      },
+      {
+        "type": "input",
+        "border": "0px none rgb(238, 238, 238)",
+        "borderRadius": "3.5px",
+        "padding": "0px",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "focusStyles": {
+          "outline": "rgb(238, 238, 238) none 0px"
+        }
+      }
+    ],
+    "links": [
+      {
+        "color": "rgb(255, 255, 255)",
+        "textDecoration": "none",
+        "fontWeight": "500",
+        "hoverColor": null,
+        "hoverDecoration": null
+      },
+      {
+        "color": "rgb(111, 111, 111)",
+        "textDecoration": "1px rgba(109, 108, 103, 0.6)",
+        "fontWeight": "400",
+        "hoverColor": null,
+        "hoverDecoration": null
+      },
+      {
+        "color": "rgb(111, 111, 111)",
+        "textDecoration": "1px oklab(0.988618 0.00159708 -0.00149123 / 0.15098)",
+        "fontWeight": "400",
+        "hoverColor": null,
+        "hoverDecoration": null
+      }
+    ]
+  },
+  "breakpoints": [],
+  "iconSystem": [],
+  "frameworks": []
+}

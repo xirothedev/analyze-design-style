@@ -1,1 +1,1 @@
-npx dembrandt
+pnpm dlx dembrandt xirothedev.site --save-output
